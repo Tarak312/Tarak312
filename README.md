@@ -1,4 +1,4 @@
-👋 Hi, I’m Taraka
+👋 Hi, I’m Taraka Gonuguntla
 
 🎓 Computer Science student
 ☕ Java Developer | 📊 Learning DSA
